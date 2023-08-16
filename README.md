@@ -28,6 +28,14 @@ The Railway Commodity Reservation System is a web-based application developed to
 
 # Screenshots:
 
+![GitHub Logo](https://github.com/raunakmallick18/railway-commodity-reservation/blob/main/1.jpg)
+
+![GitHub Logo](https://github.com/raunakmallick18/railway-commodity-reservation/blob/main/2.jpg)
+
+![GitHub Logo](https://github.com/raunakmallick18/railway-commodity-reservation/blob/main/3.jpg)
+
+![GitHub Logo](https://github.com/raunakmallick18/railway-commodity-reservation/blob/main/4.jpg)
+
 # Contribution:
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 1. Fork the repository.
