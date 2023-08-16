@@ -2,7 +2,7 @@
 
 The Railway Commodity Reservation System is a web-based application developed to streamline the process of reserving and managing commodities for railway transportation. This system provides an easy-to-use interface for users to book and manage the transportation of various commodities through the railway network. The project is built using HTML, CSS, Bootstrap, and JavaScript.
 
-![GitHub Logo](https://github.com/raunakmallick18/railway-commodity-reservation/blob/main/logo.png)
+![GitHub Logo](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIndian_Railways&psig=AOvVaw1Q0z5Lf-aTZ1Zv5BHMBmLx&ust=1692294882950000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDcvuzf4YADFQAAAAAdAAAAABAK)
 
 
 # Features:
