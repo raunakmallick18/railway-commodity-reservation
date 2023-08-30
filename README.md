@@ -47,4 +47,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 # Contact:
 For questions or support, please contact **raunak.mallick0218@email.com**.
 
-*Feel free to customize this README template according to your project's specific details and requirements.*
+
